@@ -1,4 +1,5 @@
-const API_BASE_URL = 'http://localhost:5000/api';
+// ✅ Correct
+const API_BASE_URL = 'https://smart-waste-management-qy5f.onrender.com/api';
 
 let map;
 let markers = {};
